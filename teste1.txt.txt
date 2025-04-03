@@ -1,3 +1,3 @@
-teste
+teste, algum texto para merge
 
 outra linha
